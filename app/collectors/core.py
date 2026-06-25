@@ -1,11 +1,4 @@
-"""
-Observability Platform — Metrics, Traces, Alerts
 
-Implements the three pillars of observability:
-1. Metrics: aggregated time-series (counters, gauges, histograms)
-2. Traces: distributed request tracking via OpenTelemetry
-3. Alerting: threshold + anomaly-based alerting with routing
-"""
 import time
 import uuid
 import statistics
